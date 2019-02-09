@@ -5,3 +5,5 @@ I hope to this list will contribute good influence in Korean online services.
 추가해야 할 비속어가 있으면 Pull Requests를 보내주세요. </br>
 사용법 : https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/ (출처:초보몽키의 개발공부로그)
 </br>
+
+![ex_screenshot](./main.jpg)
